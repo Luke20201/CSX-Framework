@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\CS_VehicleSpawner\CS_VehicleSpawner\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\Owner\source\repos\CS_VehicleSpawner\CS_VehicleSpawner\bin\Debug\NativeUI.dll
+C:\Users\Owner\source\repos\CS_VehicleSpawner\CS_VehicleSpawner\bin\Debug\CitizenFX.Core.Client.xml
+C:\Users\Owner\source\repos\CS_VehicleSpawner\CS_VehicleSpawner\obj\Debug\CS_VehicleSpawner.csproj.CopyComplete
+C:\Users\Owner\source\repos\CS_VehicleSpawner\CS_VehicleSpawner\bin\Debug\CS_VehicleSpawner_Client.net.dll
+C:\Users\Owner\source\repos\CS_VehicleSpawner\CS_VehicleSpawner\bin\Debug\CS_VehicleSpawner_Client.net.pdb
+C:\Users\Owner\source\repos\CS_VehicleSpawner\CS_VehicleSpawner\obj\Debug\CS_VehicleSpawner_Client.net.dll
+C:\Users\Owner\source\repos\CS_VehicleSpawner\CS_VehicleSpawner\obj\Debug\CS_VehicleSpawner_Client.net.pdb
+C:\Users\Owner\source\repos\CS_VehicleSpawner\CS_VehicleSpawner\obj\Debug\CS_VehicleSpawner.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\CS_VehicleSpawner\CS_VehicleSpawner\obj\Debug\CS_VehicleSpawner.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\CS_Armory_Client\CS_Armory_Client\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\Owner\source\repos\CS_Armory_Client\CS_Armory_Client\bin\Debug\MenuAPI.dll
+C:\Users\Owner\source\repos\CS_Armory_Client\CS_Armory_Client\bin\Debug\CitizenFX.Core.Client.xml
+C:\Users\Owner\source\repos\CS_Armory_Client\CS_Armory_Client\obj\Debug\CS_Armory_Client.csproj.CopyComplete
+C:\Users\Owner\source\repos\CS_Armory_Client\CS_Armory_Client\bin\Debug\CS_Armory_Client.net.dll
+C:\Users\Owner\source\repos\CS_Armory_Client\CS_Armory_Client\obj\Debug\CS_Armory_Client.net.dll
+C:\Users\Owner\source\repos\CS_Armory_Client\CS_Armory_Client\bin\Debug\NativeUI.dll
+C:\Users\Owner\source\repos\CS_Armory_Client\CS_Armory_Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Owner\source\repos\CS_Armory_Client\CS_Armory_Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Owner\source\repos\CS_Armory_Client\CS_Armory_Client\obj\Debug\CS_Armory_Client.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\CS_Armory_Client\CS_Armory_Client\obj\Debug\CS_Armory_Client.csproj.CoreCompileInputs.cache
